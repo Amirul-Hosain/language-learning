@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div className='header-container'>
             <div>
-                <img src="../images/images.png" alt="" />
+                <img height='65' width='80' src="/images/logo.png" alt="" />
             </div>
             <div>
                 <nav>
@@ -14,13 +14,12 @@ const Header = () => {
                         <NavLink className='item' to='/home'>Home</NavLink>
                         <NavLink className='item' to='/services'>Services</NavLink>
                         <NavLink className='item' to='/about'>About us</NavLink>
-                        <NavLink className='item' to='/feedback'>Feedback</NavLink>
                     </ul>
                 </nav>
             </div>
 
             <div>
-                <NavLink to='/login'>Login <i class="fas fa-sign-in-alt"></i></NavLink>
+                <NavLink className='login-item' to='/login'>Login <i class="fas fa-sign-in-alt"></i></NavLink>
             </div>
         </div>
     );

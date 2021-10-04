@@ -2,71 +2,43 @@
     {
         "_id": "615a7cb07c7049f70d112cf7",
         "price": "$240.5",
-        "picture": "http://placehold.it/32x32",
+        "picture": "https://files.tofugu.com/articles/reviews/2015-02-24-kodansha-international-bilingual-books/kodansha-international-bilingual-books-side-covers.jpg",
         "name": "JAPANI",
         "about": ""
     },
     {
         "_id": "615a7cb03257049f70d112cf7",
         "price": "$210",
-        "picture": "http://placehold.it/32x32",
+        "picture": "https://m.media-amazon.com/images/I/51k5c4eopdL._SY346_.jpg",
         "name": "SPANISH",
         "about": ""
     },
     {
         "_id": "615a7cb74c7049f70d112cf7",
-        "price": "$297.60",
-        "picture": "http://placehold.it/32x32",
-        "name": "MUNDERIN",
+        "price": "$397.60",
+        "picture": "https://media.istockphoto.com/photos/portrait-of-cheerful-chinese-man-reading-book-in-library-picture-id1134789794?s=612x612",
+        "name": "CHINIS",
         "about": ""
     },
     {
         "_id": "615a7c85427c7049f70d112cf7",
         "price": "$205.58",
-        "picture": "http://placehold.it/32x32",
+        "picture": "https://cdn.shopify.com/s/files/1/0024/6874/1219/products/young-adult-dick-francis-thriller-collection-10-books-set-adult-paperback-1_669x669.jpg?v=1618623449",
         "name": "FRANCIS",
         "about": ""
     },
     {
         "_id": "615a7cbfgsd56t540d112cf7",
         "price": "$310",
-        "picture": "http://placehold.it/32x32",
+        "picture": "https://image.shutterstock.com/image-photo/asian-middle-age-man-who-600w-1813284142.jpg",
         "name": "KOREAN",
         "about": ""
     },
     {
         "_id": "615a7c67541fgsn9f70d112cf7",
-        "price": "TURKIS",
-        "picture": "http://placehold.it/32x32",
-        "name": "Millicent Reeves",
-        "about": "220.60"
-    },
-    {
-        "_id": "615a7cb865fdg49f70d112cf7",
-        "price": "$326",
-        "picture": "http://placehold.it/32x32",
-        "name": "ARABIC",
-        "about": ""
-    },
-    {
-        "_id": "615a7c932q5fg49f70d112cf7",
-        "price": "$240",
-        "picture": "http://placehold.it/32x32",
-        "name": "FORASHI",
-        "about": ""
-    },
-    {
-        "_id": "615a7958fgasd455t6rd112cf7",
-        "price": "$276.44",
-        "picture": "http://placehold.it/32x32",
-        "name": "ENGLISH",
-        "about": ""
-    },
-    {
-        "_id": "615a7cjk254t6c7049f70d112cf7",
-        "price": "$230",
-        "picture": "http://placehold.it/32x32",
-        "name": "LATIN",
+        "price": "220.60",
+        "picture": "https://image.slidesharecdn.com/turkish-language-books-160308181441/95/turkish-language-books-for-beginners-1-638.jpg?cb=1457460922",
+        "name": "TURKIS",
         "about": ""
     }
 ]

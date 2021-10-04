@@ -6,14 +6,18 @@ import Footer from './components/Footer/Footer';
 import NotFound from './components/NotFound/NotFound';
 import Services from './components/Services/Services';
 import About from './components/About/About';
-import Feedback from 'react-bootstrap/esm/Feedback';
 import Login from './components/Login/Login';
+
+
 
 function App() {
   return (
     <Router>
       <Header></Header>
       <Switch>
+        <Route exact path='/'>
+          <Home></Home>
+        </Route>
         <Route exact path='/home'>
           <Home></Home>
         </Route>
@@ -25,9 +29,6 @@ function App() {
         </Route>
         <Route path='/about'>
           <About></About>
-        </Route>
-        <Route path='/feedback'>
-          <Feedback></Feedback>
         </Route>
         <Route path='/login'>
           <Login></Login>
