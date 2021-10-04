@@ -1,0 +1,29 @@
+*{
+    margin:0;
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-around;
+    /* height: 50px; */
+    padding: 10px 0px;
+    background-color: rgb(250, 247, 220);
+}
+.items{
+    display: flex;
+    list-style-type: none;
+    margin: 12px 0px;
+}
+.item{
+    color: black;
+    text-decoration: none;
+    margin-right: 8px;
+    border: 1px solid rgb(4, 4, 192);
+    border-radius: 3px;
+    padding: 3px 8px;
+    font-size: 18px;
+}
+.item:hover{
+    color: rgb(245, 144, 110);
+    border: 1px solid rgb(250, 162, 130);
+}
